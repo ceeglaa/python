@@ -1,0 +1,3 @@
+mnozenie macierzy
+transpozycja
+iloczyn skalarny
