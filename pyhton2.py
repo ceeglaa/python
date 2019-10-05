@@ -4,6 +4,9 @@ Spyder Editor
 
 This is a temporary script file.
 """
+import numpy as np
+array = np.array([1, 2, 3], dtype=np.bool)
+
 
 from typing import List, Dict, Tuple
 
