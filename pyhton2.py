@@ -64,3 +64,5 @@ with open("file.txt", "r") as f:
     print(f.read())
     
 f = open("file.txt", "r")
+
+print
